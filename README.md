@@ -8,8 +8,8 @@ Le projet met l'accent sur une architecture logicielle robuste utilisant les pri
 ---
 
 ## 🛠️ Stack Technique
-* **Langage :** Java (JDK 17+)
-* **Concepts POO :** Encapsulation, Héritage, Records (JDK 16+), Classes Finales.
+* **Langage :** Java (JDK 23+)
+* **Concepts POO :** Encapsulation, Héritage, Records (JDK 23+), Classes Finales.
 * **Gestion de données :** Utilisation intensive des collections Java (HashMap, ArrayList, List non-mutables).
 * **Interface :** Terminal (CLI) avec rendu dynamique des tuiles et du plateau.
 
